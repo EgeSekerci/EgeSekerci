@@ -10,7 +10,7 @@ Hey! 👋 I am Ege, I am a self-taught back-end developer. I love learning and i
   <h3>Technologies I have used before</h3>
     <h4>Backend:</h4>
   <p align="center">
-    <img src="https://skillicons.dev/icons?i=go,nodejs,java,spring,python,postgres,mongodb,express&perline=6" />
+    <img src="https://skillicons.dev/icons?i=go,nodejs,python,java,spring,postgres,mongodb,express&perline=6" />
   </p>
   <h4>Deployment solution:</h3>
   <p align="center">
